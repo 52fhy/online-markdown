@@ -9,7 +9,7 @@
 
 PHP攻城狮，喜欢技术与分享，主攻但不限于PHP。重点关注PHP、Golang、C/C++、Linux应用编程、Android、H5以及软件架构等领域。 欢迎关注公众号及时获取最新文章推送！ 
 
-![微信公众号](http://images2015.cnblogs.com/blog/663847/201703/663847-20170331215930477-1406562582.jpg)
+![微信公众号](./imgs/qrcode.jpg)
 
 
 ### Changelog
